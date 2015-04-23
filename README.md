@@ -59,9 +59,9 @@ Return ETXT Non-null if error
 
 From Unidata, run the included test program
 
-'''
+```
 :TOTP.TEST
-'''
+```
 
 This generates a new secret key and QR code.
 
